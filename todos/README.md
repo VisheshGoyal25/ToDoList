@@ -1,0 +1,1 @@
+Todo list using Django and sqlite
